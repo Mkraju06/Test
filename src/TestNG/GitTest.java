@@ -6,7 +6,7 @@ import org.testng.annotations.AfterTest;
 
 public class GitTest {
   @Test
-  public void f() {
+  public void GitTest() {
   }
   @BeforeTest
   public void beforeTest() {
